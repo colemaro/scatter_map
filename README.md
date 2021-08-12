@@ -21,3 +21,25 @@ The plot is Log Normalized to take into account the full range of scatter readin
 ### Layout Diagram
 
 ![Layout Diagram for Scatter Map](https://github.com/colemaro/scatter_map/blob/main/layout_diagram.png)
+
+### Examples
+
+Both of the following plots used the same values for room and source characteristics. 
+Example 2 has the inclusion of a shield.
+
+**Details**
+* Room is 5m wide, 4m long
+* Source is 50cm across and 3m from left wall and 1.5m from bottom wall
+* Scatter reading is 5 µSv/hr taken at 1m and assumed to have an energy of 50 kV
+* Shield start position is located at 1m from left wall and 3m from bottom wall
+* Shield is tilted at 45 degrees to the normal (bottom wall)
+* Shield is 1m long and is Code 3
+
+![Example 1](https://github.com/colemaro/scatter_map/blob/main/examples/example1_noshield.png)
+
+![Example_2](https://github.com/colemaro/scatter_map/blob/main/examples/example2_shield.png)
+
+Take note how the diagrams look distinctly different even though it's the same dose at each point in front of the shield.
+The colour map will be skewed by extremes created by shielding. 
+
+_Created by Ronan Coleman for MMUH Physics Department, Dublin, Ireland_
