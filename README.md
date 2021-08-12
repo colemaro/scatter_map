@@ -20,4 +20,4 @@ The plot is Log Normalized to take into account the full range of scatter readin
 
 ### Layout Diagram
 
-![Layout Diagram for Scatter Map](https://github.com/colemaro/scatter_map/layout_diagram.png)
+![Layout Diagram for Scatter Map](https://github.com/colemaro/scatter_map/blob/main/layout_diagram.png)
